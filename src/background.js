@@ -15,6 +15,7 @@ const FACEBOOK_DOMAINS = [
   "cdninstagram.com", "instagramstatic-a.akamaihd.net", "instagramstatic-a.akamaihd.net.edgesuite.net",
 
   "messenger.com", "m.me", "messengerdevelopers.com",
+  "whatsapp.com", "whatsapp.net",
 
   "atdmt.com",
 
