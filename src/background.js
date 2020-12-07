@@ -29,7 +29,9 @@ const FACEBOOK_DOMAINS = [
 
   "facebookblueprint.com", "accountkit.com", "f8.com",
 
-  "mapwith.ai"
+  "mapwith.ai",
+
+  "giphy.com", "developers.giphy.com"
 ];
 
 const MAC_ADDON_ID = "@testpilot-containers";
