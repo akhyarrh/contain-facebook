@@ -24,10 +24,12 @@ const FACEBOOK_DOMAINS = [
   "oculus.com", "oculusvr.com", "oculusbrand.com", "oculusforbusiness.com",
 
   // additional domain below
-  
+
   "whatsapp.com", "whatsapp.net",
 
-  "facebookblueprint.com", "accountkit.com", "f8.com"
+  "facebookblueprint.com", "accountkit.com", "f8.com",
+
+  "mapwith.ai"
 ];
 
 const MAC_ADDON_ID = "@testpilot-containers";
